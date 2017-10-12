@@ -6,7 +6,7 @@ public class Human {
 
 	public Human() {
 	}
-
+	// thi is for new commit git task
 	public Human(String name, int weight) {
 		this.name = name;
 		this.weight = weight;
